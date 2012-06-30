@@ -1,4 +1,4 @@
 iOS-Apps
 ========
-
-iOS apps
+Download Apps and post
+No android apps
